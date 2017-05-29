@@ -5,6 +5,6 @@ setup(
     version='0.1',
     ackages=['musigan-py-audio-analysis',],
     license='Apache License 2.0',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
 )
 
