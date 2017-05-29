@@ -1,9 +1,9 @@
 from distutils.core import setup
 
 setup(
-    name='MusiganPyAudioAnalysis',
+    name='pyAudioAnalysis',
     version='0.1',
-    ackages=['musigan-py-audio-analysis',],
+    packages=['pyAudioAnalysis',],
     license='Apache License 2.0',
     long_description=open('README.md').read(),
 )
